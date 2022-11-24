@@ -13,6 +13,6 @@
 * CSS
 ## Abrir Projeto
 
-[Formulário Evento](https://mobile-e-web.vercel.app)
+[web e mobile](https://mobile-e-web.vercel.app)
 
 <p align="center">Done with 💜 by vithorDeveloper👋</p>
